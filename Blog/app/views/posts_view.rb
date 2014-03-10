@@ -1,0 +1,2 @@
+class PostsView < UITableView
+end
