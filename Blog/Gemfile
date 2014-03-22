@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'rake'
 # Add your dependencies here:
-gem 'motion-momentum'
+gem 'motion-momentum', git: 'https://github.com/FluffyJack/motion-momentum.git', branch: 'v0.2.x'

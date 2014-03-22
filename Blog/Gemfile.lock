@@ -1,12 +1,18 @@
+GIT
+  remote: https://github.com/FluffyJack/motion-momentum.git
+  revision: 3271a10f5b46943761dc157c01d87f4f74723d46
+  branch: v0.2.x
+  specs:
+    motion-momentum (0.1.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    motion-momentum (0.1.2)
     rake (10.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  motion-momentum
+  motion-momentum!
   rake
